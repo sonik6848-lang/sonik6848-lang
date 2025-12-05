@@ -1,6 +1,6 @@
 <!-- DARK THEME PROFILE HEADER -->
 <p align="center">
-  <img src="YOUR_IMAGE_URL" width="160" style="border-radius: 50%;" />
+  <img src=""C:\Users\sonic\Downloads\WhatsApp Image 2025-01-17 at 00.15.14_a37f9a87.jpg"" width="160" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center" style="color:#fff;">Hi, I'm <span style="color:#4EA4F4;">Kishan Soni</span> 👋</h1>
