@@ -1,35 +1,36 @@
-<!-- DARK THEME PROFILE HEADER -->
 <p align="center">
-  <img src=""C:\Users\sonic\Downloads\WhatsApp Image 2025-01-17 at 00.15.14_a37f9a87.jpg"" width="160" style="border-radius: 50%;" />
+  <img src="C:\Users\sonic\Downloads\WhatsApp Image 2025-01-17 at 00.15.14_a37f9a87.jpgL" width="160" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center" style="color:#fff;">Hi, I'm <span style="color:#4EA4F4;">Kishan Soni</span> 👋</h1>
-<h3 align="center" style="color:#ccc;">Cloud • DevOps • Data Analytics • Backend Engineering</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#4EA4F4;">Kishan Soni</span></h1>
+<h3 align="center">Cloud • DevOps • Data Analytics • Backend Engineering</h3>
 
 ---
 
-## 🌑 About Me
-
-I’m a Cloud & DevOps Engineer passionate about building scalable systems, automations, backend services, and data-driven solutions.  
-I explore everything across:  
-- ☁️ AWS, Terraform, CI/CD, Kubernetes  
-- 🏗 Backend development (Java, Go, Python)  
-- 📊 Data analytics & data engineering  
-- ⚡ Automation, scripting, cloud-native tools  
+## 🚀 About Me
+- ☁️ Cloud & DevOps Engineer (AWS + Azure)  
+- 📊 Data analytics & data engineering enthusiast  
+- 🏗 Backend developer (Java, Python, Go, JS)  
+- ⚙️ Skilled in Terraform, Docker, Kubernetes, CI/CD, Linux  
+- 📚 Preparing for Terraform Associate + AWS DevOps exams  
+- 🎯 Building real cloud/data projects to grow my portfolio  
 
 ---
 
-## 🛠 Tech Stack (Dark Mode)
+# 🛠 Tech Stack (Dark Mode)
 
-### **Cloud & DevOps**
+## ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure_Cloud-000000?style=for-the-badge&logo=microsoftazure&logoColor=0089D6)
 ![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=7B42BC)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
-### **Programming**
+---
+
+## 💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3670A0)
@@ -37,7 +38,7 @@ I explore everything across:
 
 ---
 
-## 📈 Data & Analytics
+# 📈 Data & Analytics Skills
 
 ### **Data Engineering & Analytics**
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791)
@@ -52,45 +53,40 @@ I explore everything across:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=11557C)
 ![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=python&logoColor=4BC0C8)
 
-### **ETL & Big Data**
+### **Big Data & ETL**
 ![Airflow](https://img.shields.io/badge/Airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-000000?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
 
 ---
 
-## 🚀 Featured Projects (Dynamic-Style)
-
-> These are selected Cloud, DevOps, Backend, and Data projects from my repositories.
+# 🚀 Featured Projects
 
 ### 🔹 **Terraform & DevOps**
 - **[terraform-ec2-alb-asg](https://github.com/sonik6848-lang/terraform-ec2-alb-asg)**  
-  Automated AWS EC2, ALB, and Auto Scaling Group deployment using Terraform.
+  Automated AWS EC2 + ALB + Auto Scaling Group with Terraform.
 
 - **[terraform-eks-demo](https://github.com/sonik6848-lang/terraform-eks-demo)**  
-  Complete EKS cluster with VPC, node groups, IAM roles, and networking.
+  Complete EKS cluster (VPC + Nodegroups + IAM + Networking).
 
 ### 🔹 **Backend Development**
 - **[springboot-microservices-demo](https://github.com/sonik6848-lang/springboot-microservices-demo)**  
-  Spring Boot microservices + API Gateway + Config Server + Discovery Server.
+  Microservices with API Gateway, Config Server, Discovery Server.
 
 - **[go-rest-api](https://github.com/sonik6848-lang/go-rest-api)**  
-  High-performance REST API built in Go.
+  Clean & fast Go REST API.
 
 ### 🔹 **Data & Automation**
 - **[python-data-utils](https://github.com/sonik6848-lang/python-data-utils)**  
-  Custom Python utilities for data manipulation and automation.
+  Useful utilities for automation & data manipulation.
 
 ---
 
 ## 🤝 Connect With Me
-
-<p>
 <a href="https://www.linkedin.com/in/kishan-soni" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
-</p>
 
 ---
 
-<p align="center" style="color:#666;">⭐ If you like my work, consider giving my projects a star!</p>
+<p align="center" style="color:#666;">⭐ If you find my work helpful, consider giving my projects a star!</p>
