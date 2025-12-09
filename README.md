@@ -85,14 +85,6 @@ Automation scripts powered by LLM APIs.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishan-Soni&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-Soni&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
 
 ## 📫 Contact Me
 
