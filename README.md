@@ -1,78 +1,104 @@
-<!-- PROFILE HEADER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sonik6848-lang/<repo>/main/<your-image>.png" alt="Kishan Soni" width="160" style="border-radius: 50%; border: 2px solid #444;">
-  <h1 style="color:#e6e6e6;">Hi, I'm <strong>Kishan Soni</strong> 👋</h1>
-  <p style="color:#cfcfcf;">Cloud • DevOps • Data • Backend Engineering</p>
-</div>
+# 👋 Hi, I'm Kishan Soni  
+### Cloud • DevOps • Data • Backend Engineering
+
+I'm a Cloud & DevOps engineer who loves building **reliable, scalable, and automated systems**.  
+My work spans Cloud Infrastructure, DevOps automation, Data Engineering pipelines, and Backend microservices.  
+Always building. Always improving.
 
 ---
 
-# 🌑 About Me  
-I'm a developer focused on **Cloud, DevOps, Data Engineering, and Backend systems**.  
-I love designing systems that are reliable, scalable, and automated.  
-Always building, always learning.
+## 🚀 About Me
+
+- 💻 Passionate about Cloud, DevOps, Data Engineering, and Backend systems  
+- ☁️ Designing scalable cloud architectures using AWS & Azure  
+- 🔧 Automating infrastructure using Terraform, CI/CD, and containerization  
+- 🧮 Building ETL pipelines and data workflows  
+- 🧠 Constantly learning: system design, distributed systems, DevOps tooling  
+- 📚 Preparing for Terraform & AWS certifications  
 
 ---
 
-# 🧠 Skills  
+## 🛠️ Tech Stack & Tools
 
-### ☁️ **Cloud & DevOps**
-- AWS • Azure  
-- Terraform • Docker • Kubernetes  
-- CI/CD Pipelines • GitHub Actions  
-- Linux • Bash • Monitoring & Observability  
+### **☁️ Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
 
-### 🧮 **Data & Analytics**
-- SQL • ETL • Data Pipelines  
-- Python for Analytics  
-- Pandas • NumPy  
-- Data Warehousing Concepts  
-- Cloud Data Tools (AWS/Azure)
+### **🧮 Data Engineering**
+<p>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
-### 🧩 **Backend Development**
-- Java (Spring Boot)  
-- Python (APIs & automation)  
-- Go basics  
-- API Design • System Design Foundations  
-- Microservices  
-
----
-
-# 🚀 Featured Projects  
-
-### **1️⃣ Cloud-Native DevOps Pipeline (AWS + Terraform)**  
-A fully automated pipeline deploying a containerized application using IaC.  
-Focuses on infrastructure automation, modular Terraform design, and secure deployment.
-
-### **2️⃣ Data Engineering Project — ETL Pipeline**  
-Designed a real-time ETL workflow using Python & SQL.  
-Transforms raw data → cleaned → analytics-ready dataset.  
-Includes logging, validation, and incremental loads.
-
-### **3️⃣ Backend Microservice (Spring Boot)**  
-RESTful microservice built with clean architecture, unit tests, and JPA.  
-Emphasis on scalability and readable code.
-
-### **4️⃣ AI/LLM Automation Tool**  
-Created scripts to automate tasks using LLM APIs and embeddings.  
-Focused on improving developer productivity.
+### **🧩 Backend Development**
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_APIs-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
 
 ---
 
-# 💼 Current Focus  
-- Mastering **DevOps + Infrastructure**  
-- Building **cloud-native data pipelines**  
-- Preparing for **Terraform & AWS certifications**  
-- Strengthening backend fundamentals
+## 📂 Featured Projects
+
+### **1️⃣ Cloud-Native DevOps Pipeline (AWS + Terraform)**
+A fully automated CI/CD pipeline deploying a containerized application.  
+- Infrastructure-as-Code using Terraform  
+- Modular architecture for scalability  
+- Secure and automated provisioning  
+- Container orchestration and environment isolation  
 
 ---
 
-# 📫 Contact  
+### **2️⃣ Data Engineering ETL Pipeline**
+Real-time ETL workflow built using Python, SQL, and logging frameworks.  
+- Extracts → cleans → transforms → loads analytics-ready data  
+- Includes schema validation & error handling  
+- Optimized for incremental updates  
+
+---
+
+### **3️⃣ Backend Microservice (Spring Boot)**
+A REST API microservice with clean architecture and good engineering practices.  
+- JPA + layered architecture  
+- Unit tests & integration tests  
+- Designed for scalability & readability  
+
+---
+
+### **4️⃣ AI/LLM Automation Tool**
+Automation scripts powered by LLM APIs.  
+- Embeddings for text search  
+- Developer productivity automation  
+- Modular, reusable architecture  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kishan-Soni&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan-Soni&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+## 📫 Contact Me
+
 📧 **Email:** sonik6848@gmail.com  
-🔗 **LinkedIn:** linkedin.com/in/kishan-soni  
+🔗 **LinkedIn:** https://linkedin.com/in/kishan-soni  
 
 ---
 
-<div align="center">
-  <p style="color:#777;">⚡ Always improving — one commit at a time.</p>
-</div>
+### ⚡ Always improving — one commit at a time.
